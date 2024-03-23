@@ -1,5 +1,8 @@
 # Project_Medicare_With_NLP
 
+![NLP](https://github.com/EswarAditya5/Project_Medicare_With_NLP/assets/142793639/59d312aa-585b-4bdd-b8c0-d7c94431161a)
+
+
 ### Overview
 Medicare with NLP is a natural language processing (NLP) project that focuses on analyzing and processing medical text data. In this project, we use various NLP techniques and machine learning models to extract valuable insights from medical text data. The project involves text cleaning using regular expressions `(re)`, text preprocessing with the Natural Language Toolkit `(nltk)`, visualizations using `WordCloud` and a frequency distribution plot `(FreqDist)`, feature engineering by flattening and splitting data into **numerical** and **categorical** columns, exploring data relationships with a **heatmap**, data transformation using **robust scaling**, and one-hot encoding with **get_dummies**. Additionally, we build two predictive models, a **Linear Regression** model and a **Decision Tree Regressor**, to make predictions based on the processed data.
 
